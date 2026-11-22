@@ -4,8 +4,6 @@ An animated theme for the Claude desktop app. In dark mode, northern lights ripp
 
 ## Install
 
-This repository is private. You need to be invited to it on GitHub, and your computer needs to be signed in to GitHub for git (for example, install the GitHub CLI and run `gh auth login`, then `gh auth setup-git`).
-
 At the prompt of a Claude Code session in a terminal:
 
 ```
